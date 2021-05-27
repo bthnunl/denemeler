@@ -1,0 +1,11 @@
+cv1 = {"İsim": "Ahmet " , "Soyisim ": "Ünal", "Yaş ": 25, "Okul ": "Boğaziçi", "Bölüm ": "MIS" }
+cv2 = {"İsim": "Batu " , "Soyisim ": "Yaş", "Yaş ": 23, "Okul ": "Marmara", "Bölüm ": "Endüstri Mühendisliği" }
+cv3 = {"İsim": "Esra " , "Soyisim ": "Şimşek", "Yaş ": 30, "Okul ": "Marmara", "Bölüm ": "Sınıf Öğretmenliği" }
+cv4 = {"İsim": "Büşra " , "Soyisim ": "Duman", "Yaş ": 21, "Okul ": "Yeditepe", "Bölüm ": "Endüstri Mühendisliği" }
+cv5 = {"İsim": "İzzet " , "Soyisim ": "Kara", "Yaş ": 23, "Okul ": "Yıldız Teknil", "Bölüm ": "Bilgisayar Programcılığı" }
+
+print(cv1)
+print(cv2)
+print(cv3)
+print(cv4)
+print(cv5)
